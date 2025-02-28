@@ -1,4 +1,4 @@
-# Medical-Report-Data-Extraction-using-OCR-Python
+# Medical-Report-Data-Extraction
 Tools & Technologies: Python, OCR (Tesseract), pdf2image, img2table. 
 Developed an automated data extraction pipeline to process medical reports and extract structured tabular data. 
 Utilized pdf2image to convert PDFs into images for OCR-based processing. 
